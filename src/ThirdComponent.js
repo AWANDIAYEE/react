@@ -32,7 +32,7 @@ const ThirdComponent = () => {
         </button>
       </div>
       <Container className="aligner">
-        <Row className="justify-content-center">
+        <Row className="justify-content-center" style={{width:'100%'}}>
           <Col
             className="firstcol"
             xs={12}
@@ -50,7 +50,7 @@ const ThirdComponent = () => {
             <p className="loremfirstcol">
               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
               dolore Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-              labore et dolore Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+              labore et dolore Lorem ip sum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
               invidunt ut labore et dolore
             </p>
             <img className="carim" src={petit2} style={{ borderRadius: '25px', marginTop: '9%' }} alt="" />

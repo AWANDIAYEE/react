@@ -13,6 +13,7 @@ const App = () => {
     <div>
       <Header />
       <div className="main-content">
+        
         <div className="left-content">
           
         </div>

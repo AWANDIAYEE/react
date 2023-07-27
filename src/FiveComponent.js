@@ -94,7 +94,7 @@ const FiveComponent = () => {
                 marginRight: '5%',
               }}
             >
-              Created by <u>Awa ndiaye</u>
+              Created by <u>mouhamed cisse</u>
             </p>
           </Col>
         </Row>
