@@ -194,8 +194,9 @@
 
  .firstcol{
   margin-left: 55px;
-  align-items: right;
+  align-items: center;
   justify-content: center;
+
  }
  .mouhamed{
   margin-right: 5%;
@@ -220,4 +221,30 @@
   margin-bottom: 8%;
  }
 
+ .aligner{
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+ }
+
+}
+
+@media (min-width:414px) and (max-width:896px) {
+  .firstcol{
+    margin-left: 13%;
+  
+   }
+   .five-component{
+    width: 104%;
+    height: 860px;
+  }
+
+  .imfo{
+   width: 30%;
+   height: 245px;
+   }
+
+   .header{
+    width: 105%;
+  }
 }
