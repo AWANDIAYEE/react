@@ -179,8 +179,9 @@
     width: 0px;
   }
   .five-component{
-    height: 850px;
+    height: 868px;
     width: 104%;
+    max-height: 875px;
   }
   .coverhaut{
     height: 200px;
@@ -192,11 +193,12 @@
   }
 
  .firstcol{
-  margin-left: 41px;
+  margin-left: 55px;
+  align-items: right;
+  justify-content: center;
  }
  .mouhamed{
-  margin-top: 18%;
-  text-align: center;
+  margin-right: 5%;
  }
 
  .elevate{
@@ -205,7 +207,7 @@
  }
 
  .imfo{
-  margin-bottom: 10%;
+  margin-bottom: 2%;
   margin-top: 2%;
  }
 
