@@ -1,6 +1,4 @@
-*{
 
-}
 
 .header {
   background-image: url(./assets/BackgroundBlue.png);
@@ -14,7 +12,7 @@
 .five-component{
   background-image: url(./assets/Backgroundfooter.png);
   height: 770px;
-
+  width: auto;
 }
 
 .header-content {
@@ -75,7 +73,7 @@
 
 .footer{
   height: 600px;
-  width: 108%;
+  width: 100%;
   padding: 20px;
   align-items: left;
   background-size: cover;
@@ -133,7 +131,7 @@
 
 @media (min-width:375px) and (max-width:424px) {
   .header{
-    width: 104%;
+    width: 100%;
   }
 
   .screens{
@@ -171,7 +169,7 @@
 
 @media (min-width:320px) and (max-width:374px) {
   .header{
-    width: 104%;
+    width: 100%;
   }
 
   .screens{
@@ -186,7 +184,7 @@
   }
   .five-component{
     height: 868px;
-    width: 104%;
+    width: 100%;
     max-height: 875px;
   }
   .coverhaut{
@@ -241,10 +239,14 @@
       padding: 0;
       
     }
+
+    .screens{
+      width: 85%;
+    }
   
 
   .firstcol{
-    margin-left: 13%;
+   margin-left: 16%;
     
   
    }
@@ -262,7 +264,7 @@
    }
 
    .header{
-    width: 101%;
+    width: 100%;
 
   }
 
