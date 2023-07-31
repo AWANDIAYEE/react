@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import SecondComponent from './SecondComponent';
 import ThirdComponent from './ThirdComponent';
 import FiveComponent from './FiveComponent';
-
+import YourComponent from './YourComponent';
 
 const App = () => {
   return (
@@ -28,6 +28,7 @@ const App = () => {
       <SecondComponent />
       <ThirdComponent/>
       <FiveComponent/>
+      <YourComponent/>
       
     </div>
   );
